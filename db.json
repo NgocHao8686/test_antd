@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "San pham 1 update",
+      "image": "https://picsum.photos/200/300",
+      "price": 1234878676,
+      "quality": "101093",
+      "description": "daMXALXMAOJ dwhdwudbuw",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$eQXeBl3qV35EevJY4JsIQ.NBF2rgBohGfdP/tPrqIxHDt73j8r7je",
+      "id": 1
+    },
+    {
+      "email": "123@gmail.com",
+      "password": "$2a$10$ozoscnjYXDjpzfpXuBIQnO.7ruKJX6/6kEa7GEsvndknBMG/w2qtm",
+      "id": 2
+    },
+    {
+      "email": "123456@gmail.com",
+      "password": "$2a$10$GfocUyIeaOylpf0NiUJxA.MH9O19N6v/5KeQ11eNi8Z7kNWaQdKNe",
+      "id": 3
+    },
+    {
+      "email": "nhao@gmail.com",
+      "password": "$2a$10$/LqupudtukM9xjJa//653u9IOeXdBA6o4yQr.pvDQk0OO7g4dPhF6",
+      "id": 4
+    }
+  ]
+}
